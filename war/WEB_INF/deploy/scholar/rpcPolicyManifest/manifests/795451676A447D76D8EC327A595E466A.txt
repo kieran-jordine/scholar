@@ -1,0 +1,2 @@
+serviceClass: com.aski.scholar.client.ajax.SuperAdminServlet
+path: A098F502E612480547BCD514AD38E589.gwt.rpc

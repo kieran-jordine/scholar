@@ -1,0 +1,2 @@
+serviceClass: com.aski.scholar.client.MyServlet
+path: 1B466A59AD562DF4FFEE66B13BF976A0.gwt.rpc

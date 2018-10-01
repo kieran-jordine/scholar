@@ -1,0 +1,7 @@
+# Module scholar
+# RPC service class, partial path of RPC policy file
+com.aski.scholar.client.ajax.StudentServlet, 5EC42666141989CD1F16A87C9F6DCC96.gwt.rpc
+com.aski.scholar.client.MyServlet, 1B466A59AD562DF4FFEE66B13BF976A0.gwt.rpc
+com.aski.scholar.client.ajax.TeacherServlet, 4871480E12BD3E421DC3F63ACD3EEBC5.gwt.rpc
+com.aski.scholar.client.ajax.SuperAdminServlet, A098F502E612480547BCD514AD38E589.gwt.rpc
+com.aski.scholar.client.ajax.AdminServlet, 4EB2D31DBC803527DBAA7DE4F5F68C6F.gwt.rpc

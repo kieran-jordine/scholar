@@ -1,0 +1,2 @@
+serviceClass: com.aski.scholar.client.ajax.StudentServlet
+path: 5EC42666141989CD1F16A87C9F6DCC96.gwt.rpc
