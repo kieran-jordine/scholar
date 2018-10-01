@@ -1,108 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5"
+         xmlns="http://java.sun.com/xml/ns/javaee">
 
--<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
-<!-- Servlets -->
-
-
-
--<servlet>
-
-<servlet-name>MyServlet</servlet-name>
-
-<servlet-class>com.aski.scholar.server.MyServletImpl</servlet-class>
-
-</servlet>
-
-
--<servlet-mapping>
-
-<servlet-name>MyServlet</servlet-name>
-
-<url-pattern>/scholar/myservlet</url-pattern>
-
-</servlet-mapping>
-
-
--<servlet>
-
-<servlet-name>AdminServlet</servlet-name>
-
-<servlet-class>com.aski.scholar.server.AdminServletImpl</servlet-class>
-
-</servlet>
-
-
--<servlet-mapping>
-
-<servlet-name>AdminServlet</servlet-name>
-
-<url-pattern>/scholar/adminservlet</url-pattern>
-
-</servlet-mapping>
-
-
--<servlet>
-
-<servlet-name>TeacherServlet</servlet-name>
-
-<servlet-class>com.aski.scholar.server.TeacherServletImpl</servlet-class>
-
-</servlet>
-
-
--<servlet-mapping>
-
-<servlet-name>TeacherServlet</servlet-name>
-
-<url-pattern>/scholar/teacherservlet</url-pattern>
-
-</servlet-mapping>
-
-
--<servlet>
-
-<servlet-name>StudentServlet</servlet-name>
-
-<servlet-class>com.aski.scholar.server.StudentServletImpl</servlet-class>
-
-</servlet>
-
-
--<servlet-mapping>
-
-<servlet-name>StudentServlet</servlet-name>
-
-<url-pattern>/scholar/studentservlet</url-pattern>
-
-</servlet-mapping>
-
-
--<servlet>
-
-<servlet-name>SuperAdminServlet</servlet-name>
-
-<servlet-class>com.aski.scholar.server.SuperAdminServletImpl</servlet-class>
-
-</servlet>
-
-
--<servlet-mapping>
-
-<servlet-name>SuperAdminServlet</servlet-name>
-
-<url-pattern>/scholar/superadminservlet</url-pattern>
-
-</servlet-mapping>
-
-<!-- Default page to serve -->
-
-
-
--<welcome-file-list>
-
-<welcome-file>Scholar.html</welcome-file>
-
-</welcome-file-list>
+  <!-- Servlets -->   
+  <servlet>
+		<servlet-name>MyServlet</servlet-name>
+		<servlet-class>com.aski.scholar.server.MyServletImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>MyServlet</servlet-name>
+		<url-pattern>/scholar/myservlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>AdminServlet</servlet-name>
+		<servlet-class>com.aski.scholar.server.AdminServletImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AdminServlet</servlet-name>
+		<url-pattern>/scholar/adminservlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>TeacherServlet</servlet-name>
+		<servlet-class>com.aski.scholar.server.TeacherServletImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>TeacherServlet</servlet-name>
+		<url-pattern>/scholar/teacherservlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>StudentServlet</servlet-name>
+		<servlet-class>com.aski.scholar.server.StudentServletImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>StudentServlet</servlet-name>
+		<url-pattern>/scholar/studentservlet</url-pattern>
+	</servlet-mapping>
+  
+	<servlet>
+		<servlet-name>SuperAdminServlet</servlet-name>
+		<servlet-class>com.aski.scholar.server.SuperAdminServletImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SuperAdminServlet</servlet-name>
+		<url-pattern>/scholar/superadminservlet</url-pattern>
+	</servlet-mapping>
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>Scholar.html</welcome-file>
+  </welcome-file-list>
 
 </web-app>
