@@ -1,0 +1,10 @@
+infant00,Infant
+prptry00,Preparatory
+prmry000,Primary
+allage00,All Age
+jnrhgh00,Junior High
+secndy00,Secondary High
+cmtyclg0,Community College
+tchrclg0,Teacher College
+tertry00,Tertiary
+special0,Special

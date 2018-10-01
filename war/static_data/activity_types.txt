@@ -1,0 +1,5 @@
+asgnmnt0,Assignment
+quiz0000,Quiz
+prctc000,Practice
+exam0000,Exam
+other000,Note

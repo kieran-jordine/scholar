@@ -1,0 +1,35 @@
+mathics0,Mathematics,MATH
+englan00,English Language,ENGA
+englit00,English Literature,ENGB
+physics0,Physics,PHYS
+biology0,Biology,BIOL
+chemtry0,Chemistry,CHEM
+geogrhy0,Geography,GEO
+inftech0,Information Technology,IT
+history0,History,HIST
+homecon0,Home Economics,HOME
+french00,French,FREN
+spanish0,Spanish,SPAN
+drama000,Drama,DRMA
+music000,Music,MUSC
+phyed000,Physical Education,PE
+reled000,Religious Education,REED
+sclstdy0,Social Studies,SOCL
+agrsci00,Agricultural Science,AGRI
+clthtex0,Clothing and Textiles,CLTX
+econmcs0,Economics,ECON
+foodnrt0,Food and Nutrition,FOOD
+intscnc0,Integrated Science,ITGR
+humsoc00,Human and Social Biology,HSB
+office00,Office Administration,OFFC
+prncacc0,Principles of Accounts,POA
+prncbus0,Principles of Business,POB
+techdrw0,Technical Drawing,TD
+thrtra00,Theatre Arts,THEA
+visarts0,Visual Arts,VISA
+docprep0,Electronic Document Preparation,EDP
+buitech0,Construction Technology,CON
+buitech0,Woods Technology,WOOD
+eleltec0,Electrical and Electronic Technology,EET
+mechtec0,Mechanical Engineering,MECH
+addmath0,Additional Mathematics,ADD

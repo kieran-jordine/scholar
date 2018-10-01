@@ -1,0 +1,42 @@
+c493d8bf,Cornwall College,secndy00
+5092e0c3,Spot Valley High School,secndy00
+2401a5cf,Sam Sharpe Teacher's College,tchrclg0
+8f15fe2a,Shortwood Teacher's College,tchrclg0
+e283e100,Montego Bay Community College,cmtyclg0
+e3e8babb,Browns Town Community College,cmtyclg0
+62f8e02a,Moneague College,tertry00
+f207712e,University of Technology,tertry00
+8f6d520f,Anchovy High School,secndy00
+a623ffd4,Cambridge High School,secndy00
+3ab7e67c,Green Pond High School,secndy00
+89df63d5,Irwin High School,secndy00
+468d9a35,Maldon High School,secndy00
+5cb46b84,Montego Bay High School,secndy00
+6fb48c77,Mount Alvernia High School,secndy00
+e159fadc,Herbert Morrison Technical High School,secndy00
+9d9ce147,St. James High School,secndy00
+be9e8681,Green Island High School,secndy00
+d6d3c007,Hopewell High School,secndy00
+8e3e313f,Merlene Ottey High School,secndy00
+dc4734f8,Rhodes Hall High School,secndy00
+1999d309,Rusea's High School,secndy00
+09ea2363,Knockalva Technical High School,secndy00
+7c1ab0f9,Belmount Academy,secndy00
+45751178,Godfrey Stewart High School,secndy00
+cc80893a,Grange Hill High School,secndy00
+2f5b140f,Little London High School,secndy00
+123ce9f2,Manning's High School,secndy00
+f8c1c503,Maud McLeod High School,secndy00
+c96354b6,Petersfield High School,secndy00
+f3ce20d3,Frome Technical High School,secndy00
+af7317c4,B.B. Coke High School,secndy00
+2c1d42ca,Balaclava High School,secndy00
+7497299b,Black River High School,secndy00
+565929cd,Hampton School,secndy00
+2ff399ca,Lacovia High School,secndy00
+d3085509,Lewisville High School,secndy00
+f4b02a26,Magotty High School,secndy00
+a4398a81,Munro College,secndy00
+dbe4455b,Newell High School,secndy00
+4c06aeb7,St. Elizabeth Technical High School,secndy00
+a389488a,Sydney Pagon Agricultural High School,secndy00

@@ -1,0 +1,5 @@
+qstmcsa0,Multiple Choice - Single Answer
+qstmcma0,Multiple Choice - Multiple Answer
+qststi00,Short Textual Input
+qstni000,Numerical Input
+qstlti00,Long Textual Input
